@@ -5,9 +5,13 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Welcome to Glow Beauty</h1>
-  <p>My First Website</p>
+  <h1>🌸 Welcome to Glow Beauty</h1>
+  <p>Best beauty website</p>
+
+  <button onclick="alert('Thanks for visiting!')">
+    Click Me
+  </button>
 
   <script src="script.js"></script>
 </body>
-</html>
+</html>  
